@@ -1,3 +1,5 @@
+
+    Song of the repo :(RÜFÜS DU SOL- Innerbloom ) https://www.youtube.com/watch?v=Tx9zMFodNtA
 # Netflix EDA Project
 
 Welcome to the Netflix EDA (Exploratory Data Analysis) Project! This project aims to explore and analyze a dataset containing information about Netflix movies and TV shows. The objective is to gain insights into the dataset and uncover interesting patterns and trends.
