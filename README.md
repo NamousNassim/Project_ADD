@@ -1,4 +1,4 @@
-#Netflix EDA Project
+# Netflix EDA Project
 
 Welcome to the Netflix EDA (Exploratory Data Analysis) Project! This project aims to explore and analyze a dataset containing information about Netflix movies and TV shows. The objective is to gain insights into the dataset and uncover interesting patterns and trends.
 Dataset
@@ -6,7 +6,7 @@ Dataset
 The dataset used in this project consists of information about various movies and TV shows available on Netflix. It includes attributes such as title, director, cast, country, release year, rating, duration, and genre. The dataset provides a comprehensive collection of Netflix content, allowing for a thorough exploration.
 Project Structure
 
-#The project is structured as follows:
+# The project is structured as follows:
 
     Data Acquisition: In this section, the dataset will be obtained and loaded into the project. It involves understanding the data source, acquiring the dataset, and importing it into the project environment.
 
@@ -20,7 +20,7 @@ Project Structure
 
     Conclusion: The conclusion summarizes the main findings of the EDA project, highlights the key insights obtained, and offers suggestions for further analysis or potential areas of interest.
 
-#Tools and Libraries
+# Tools and Libraries
 
 The project utilizes the following tools and libraries:
 
@@ -33,7 +33,7 @@ The project utilizes the following tools and libraries:
     Matplotlib and Seaborn: These libraries are used for data visualization in Python. They offer a wide range of plotting options to create informative and visually appealing charts and graphs.
     
 
-#Getting Started
+# Getting Started
 
 To get started with the Netflix EDA Project, follow these steps:
 
@@ -45,6 +45,6 @@ To get started with the Netflix EDA Project, follow these steps:
 
     Feel free to modify or expand upon the analysis according to your interests. Add new visualizations, ask different questions, or delve deeper into specific aspects of the dataset.
 
-#Contributing
+# Contributing
 
 Contributions to this project are welcome! If you find any issues, have suggestions for improvements, or would like to add new features, please submit an issue or create a pull request.
